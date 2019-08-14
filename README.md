@@ -1,5 +1,5 @@
 # Dicee-
-A simple dicee app
+A simple dicee app//Roll it baby!!
 
 
 
