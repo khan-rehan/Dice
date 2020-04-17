@@ -1,9 +1,6 @@
 # Dicee ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-## A simple dice app//Roll it baby!!
-
-
-A one-to-one chat app built on Flutter with firebase authentication.
+A simple dice app//Roll it baby!!
 
 For help getting started with Flutter, view the online [documentation](https://flutter.dev).
 
