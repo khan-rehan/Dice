@@ -1,15 +1,30 @@
-# Dicee-
-A simple dicee app//Roll it baby!!
+# Dicee ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
+## A simple dice app//Roll it baby!!
 
+---
 
-App Icon
+App UI
 
-<img width="62" alt="Screenshot 2019-08-12 at 9 33 30 PM" src="https://user-images.githubusercontent.com/42263217/62885774-535e3c80-bd57-11e9-81ae-d38e6fd254d2.png">
+![Dicee Gif](dice.gif)
 
-App view
+---
 
+🖥Requirements
 
-<img width="391" alt="Screenshot 2019-08-13 at 12 12 18 AM" src="https://user-images.githubusercontent.com/42263217/62889451-14cc8000-bd5f-11e9-9c00-8096be2d6095.png">
+- Any Operating System (i.e. MacOS X, Linux, WIndows)
+- IDE (i.e. VsCode, Android Studio)
+- **Flutter plugin** if not there [Click here to install](https://flutter.dev/docs/get-started/install)
+- Simulator/Emulator/A real mobile device connected to the system.
 
-Tap on it!! to view the changes
+---
+
+How to run:
+
+```
+- Download the source code by using command "git clone https://github.com/khan-rehan/Dice.git" in command line.
+- Open the project in Android studio/Vscode and also open the simulator/emulator.
+- Now do the following:
+    1. Type flutter get packages in terminal of Studio/VsCode.
+    2. Click on run in Android studio/ type "flutter run" in terminal of VsCode and there you go!.
+```
