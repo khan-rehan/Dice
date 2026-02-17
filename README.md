@@ -1,53 +1,39 @@
-# Dicee ![Author -Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
+# Dicee
 
-A simple dice app//Roll it baby!!
+![Author - Rehan Khan](https://img.shields.io/badge/Author-Rehan%20Khan-blue)
 
-For help getting started with Flutter, view the online [documentation](https://flutter.dev).
+A simple dice roller app built with Flutter. Tap either die to randomly roll both dice.
 
-You can check out the corresponding Google code lab [here](https://codelabs.developers.google.com/codelabs/flutter/index.html?index=..%2F..%2Findex#0).
+## Features
 
-# Demo
+- Two dice displayed side by side
+- Tap to roll both dice randomly (1-6)
+- Dice face images update on each roll
 
-![Dicee Gif](dice.gif)
+## Tech Stack
 
-# Getting Started
+- **Framework:** Flutter
+- **Language:** Dart
 
-**Note:** Make sure your Flutter environment is setup & if not installed then [Click here to install](https://flutter.dev/docs/get-started/install)
-
-**Installation**
-
-In the command terminal, run the following commands:
-
-```
-$ git clone https://github.com/khan-rehan/Dice.git
-
-$ cd Dice/
-
-$ flutter run
-```
-
-# Simulate for iOS
-
-## Method One
+## Project Structure
 
 ```
-Open the project in Xcode from ios/Runner.xcodeproj.
-Hit the play button.
+├── lib/
+│   └── main.dart                 # Dice UI with random generation
+└── images/
+    ├── dice1.png - dice6.png     # Dice face images
 ```
 
-## Method Two
+## Getting Started
 
-```
-Run the following command in your terminal.
-$ open -a Simulator
-$ flutter run
-```
+**Prerequisites:** [Flutter SDK](https://flutter.dev/docs/get-started/install)
 
-# Simulate for Android
-
-```
-Make sure you have an Android emulator installed and running.
-Run the following command in your terminal.
-$ flutter run
+```sh
+git clone https://github.com/khan-rehan/Dice.git
+cd Dice
+flutter run
 ```
 
+## Demo
+
+![Dicee Demo](dice.gif)
